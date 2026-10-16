@@ -1,10 +1,15 @@
 name: Instagram auto-post
 on:
   schedule:
-    - cron: "30 4 * * *"   # 10:00 AM IST daily
-  workflow_dispatch: {}
+    - cron: "*/30 * * * *"   # every 30 min; posts whatever is due (times in queue.json are IST)
+  workflow_dispatch:
+    inputs:
+      force_now:
+        description: "Post the next item immediately (1 = yes)"
+        default: "0"
 permissions:
   contents: write
+concurrency: { group: instagram-post, cancel-in-progress: false }
 jobs:
   post:
     runs-on: ubuntu-latest
@@ -13,13 +18,16 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests
-      - run: python publish.py
+      - name: Publish due posts
+        run: python publish.py
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ vars.IG_USER_ID }}
+          FORCE_NOW: ${{ github.event.inputs.force_now }}
       - name: Save queue status
+        if: always()
         run: |
           git config user.name "shivpriya-bot"
           git config user.email "bot@shivpriyatexchem.com"
           git add posts/queue.json
-          git diff --cached --quiet || git commit -m "Posted next item" && git push
+          git diff --cached --quiet || (git commit -m "Update post queue" && git pull --rebase && git push)
