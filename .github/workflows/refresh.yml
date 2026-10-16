@@ -1,0 +1,13 @@
+name: Refresh Instagram token
+on:
+  schedule:
+    - cron: "0 3 1,15 * *"   # 1st and 15th of each month
+  workflow_dispatch: {}
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests && python refresh_token.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}

@@ -1,0 +1,25 @@
+name: Instagram auto-post
+on:
+  schedule:
+    - cron: "30 4 * * *"   # 10:00 AM IST daily
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests
+      - run: python publish.py
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ vars.IG_USER_ID }}
+      - name: Save queue status
+        run: |
+          git config user.name "shivpriya-bot"
+          git config user.email "bot@shivpriyatexchem.com"
+          git add posts/queue.json
+          git diff --cached --quiet || git commit -m "Posted next item" && git push
