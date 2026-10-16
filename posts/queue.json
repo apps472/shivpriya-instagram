@@ -6,9 +6,63 @@
       "story-polyester-100.jpg"
     ],
     "caption": "",
-    "posted": true,
-    "media_id": "18282925522306619",
-    "posted_at": "2026-10-16 14:20"
+    "posted": true
+  },
+  {
+    "id": "d01-story1",
+    "type": "story",
+    "files": [
+      "days/day01/story1.jpg"
+    ],
+    "at": "2026-10-16 00:00",
+    "posted": false
+  },
+  {
+    "id": "d01-carousel",
+    "type": "carousel",
+    "files": [
+      "carousels/day01/01.jpg",
+      "carousels/day01/02.jpg",
+      "carousels/day01/03.jpg",
+      "carousels/day01/04.jpg",
+      "carousels/day01/05.jpg",
+      "carousels/day01/06.jpg",
+      "carousels/day01/07.jpg",
+      "carousels/day01/08.jpg",
+      "carousels/day01/09.jpg",
+      "carousels/day01/10.jpg"
+    ],
+    "at": "2026-10-16 00:00",
+    "posted": false,
+    "caption": "Yarn of the Day 01 · Polyester Spun Yarn\n\nWhy is polyester spun yarn in almost every fabric you wear? Swipe through: what it is, how it's made, counts we supply (Ne 10s-60s), where it's used and the fabrics it makes.\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #PolyesterYarn #SpunYarn #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d01-story2",
+    "type": "story",
+    "files": [
+      "days/day01/story2.jpg"
+    ],
+    "at": "2026-10-16 00:00",
+    "posted": false
+  },
+  {
+    "id": "d01-reel",
+    "type": "reel",
+    "files": [
+      "days/day01/reel.mp4"
+    ],
+    "at": "2026-10-16 00:00",
+    "posted": false,
+    "caption": "Polyester spun yarn in 30 seconds 🧵 Counts Ne 10s-60s · Ring · Vortex · OE · SHT. Mill-direct from Shivpriya Texchem.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #PolyesterYarn #SpunYarn #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d01-story3",
+    "type": "story",
+    "files": [
+      "days/day01/story3.jpg"
+    ],
+    "at": "2026-10-16 00:00",
+    "posted": false
   },
   {
     "id": "p01-intro",
@@ -16,7 +70,8 @@
     "files": [
       "p01-intro.jpg"
     ],
-    "caption": "Since 2003, Shivpriya Texchem has connected India's leading spinning mills with weavers and knitters across the country. One partner, 120+ mills, 1,500+ SKUs.\n\n📞 Bhiwandi 9322509163 | Surat 9322509161 | Ichalkaranji 8767250274\n🌐 www.shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnTrading #TextileIndustry #PolyesterYarn #Bhiwandi #Surat #Ichalkaranji #MadeInIndia #Textiles",
+    "at": "2026-10-17 12:30",
+    "caption": "Yarn made for you. 30+ years, 2,500+ customers, 50+ mill partners.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
@@ -25,7 +80,8 @@
     "files": [
       "p02-range.jpg"
     ],
-    "caption": "From polyester spun to filament, viscose, cotton, blends and GRS-certified recycled yarns, our range covers every requirement of the weaving and knitting industry.\n\n📞 Bhiwandi 9322509163 | Surat 9322509161 | Ichalkaranji 8767250274\n🌐 www.shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnTrading #TextileIndustry #PolyesterYarn #Bhiwandi #Surat #Ichalkaranji #MadeInIndia #Textiles",
+    "at": "2026-10-18 12:30",
+    "caption": "Seven yarn families. 27 yarn lines. One partner.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
@@ -34,7 +90,8 @@
     "files": [
       "p03-manufacturing.jpg"
     ],
-    "caption": "Beyond trading, we manufacture. Our TFO fancy yarn and SNZ mono covering divisions together produce 300 tonnes every month.\n\n📞 Bhiwandi 9322509163 | Surat 9322509161 | Ichalkaranji 8767250274\n🌐 www.shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnTrading #TextileIndustry #PolyesterYarn #Bhiwandi #Surat #Ichalkaranji #MadeInIndia #Textiles",
+    "at": "2026-10-19 12:30",
+    "caption": "300 tonnes every month from our own TFO and SNZ floors.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
@@ -43,7 +100,8 @@
     "files": [
       "p04-mills.jpg"
     ],
-    "caption": "We are proud authorized partners of leading mills including Sanathan Textiles, Bhilosa Industries and GHCL. Genuine material, direct mill rates.\n\n📞 Bhiwandi 9322509163 | Surat 9322509161 | Ichalkaranji 8767250274\n🌐 www.shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnTrading #TextileIndustry #PolyesterYarn #Bhiwandi #Surat #Ichalkaranji #MadeInIndia #Textiles",
+    "at": "2026-10-20 12:30",
+    "caption": "Authorised agent for India's leading spinning mills.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
@@ -52,7 +110,8 @@
     "files": [
       "p05-network.jpg"
     ],
-    "caption": "With offices and godowns in India's key textile hubs, we deliver faster and serve you locally.\n\n📞 Bhiwandi 9322509163 | Surat 9322509161 | Ichalkaranji 8767250274\n🌐 www.shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnTrading #TextileIndustry #PolyesterYarn #Bhiwandi #Surat #Ichalkaranji #MadeInIndia #Textiles",
+    "at": "2026-10-21 12:30",
+    "caption": "Connecting 22 textile hubs across India.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
@@ -61,7 +120,8 @@
     "files": [
       "p06-knowledge.jpg"
     ],
-    "caption": "Learning never stops. Explore our free Knowledge Series of 84 in-house textile reports at shivpriyatexchem.com/knowledge\n\n📞 Bhiwandi 9322509163 | Surat 9322509161 | Ichalkaranji 8767250274\n🌐 www.shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnTrading #TextileIndustry #PolyesterYarn #Bhiwandi #Surat #Ichalkaranji #MadeInIndia #Textiles",
+    "at": "2026-10-22 12:30",
+    "caption": "84 free textile reports at shivpriyatexchem.com/knowledge\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
@@ -70,7 +130,8 @@
     "files": [
       "p07-whatsapp.jpg"
     ],
-    "caption": "Want daily yarn rates and stock updates? Join our WhatsApp community, Shivpriya Yarn Updates. Link in bio.\n\n📞 Bhiwandi 9322509163 | Surat 9322509161 | Ichalkaranji 8767250274\n🌐 www.shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnTrading #TextileIndustry #PolyesterYarn #Bhiwandi #Surat #Ichalkaranji #MadeInIndia #Textiles",
+    "at": "2026-10-23 12:30",
+    "caption": "Let's talk yarn. Reach the right desk for your market.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   }
 ]
