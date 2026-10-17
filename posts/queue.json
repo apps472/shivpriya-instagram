@@ -167,9 +167,10 @@
   },
   {
     "id": "p02-range",
-    "type": "image",
+    "type": "carousel",
     "files": [
-      "p02-range.jpg"
+      "posts/p02-range.jpg",
+      "b4/cta.jpg"
     ],
     "at": "2026-10-18 12:30",
     "caption": "Seven yarn families. 27 yarn lines. One partner.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
@@ -204,6 +205,26 @@
     "posted": false
   },
   {
+    "id": "fest-navami-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-10-19-navami-story.jpg"
+    ],
+    "at": "2026-10-19 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-navami-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-10-19-navami-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-10-19 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Maha Navami from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Maha #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
     "id": "d04-story1",
     "type": "story",
     "files": [
@@ -233,9 +254,10 @@
   },
   {
     "id": "p03-manufacturing",
-    "type": "image",
+    "type": "carousel",
     "files": [
-      "p03-manufacturing.jpg"
+      "posts/p03-manufacturing.jpg",
+      "b4/cta.jpg"
     ],
     "at": "2026-10-19 12:30",
     "caption": "300 tonnes every month from our own TFO and SNZ floors.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
@@ -270,43 +292,1720 @@
     "posted": false
   },
   {
-    "id": "p04-mills",
-    "type": "image",
+    "id": "fest-dussehra-story",
+    "type": "story",
     "files": [
-      "p04-mills.jpg"
+      "b4/x-2026-10-20-dussehra-story.jpg"
+    ],
+    "at": "2026-10-20 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-dussehra-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-10-20-dussehra-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-10-20 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Dussehra from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Dussehra #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
+    "id": "d05-story1",
+    "type": "story",
+    "files": [
+      "b1/d05-story1.jpg"
+    ],
+    "at": "2026-10-20 09:30",
+    "posted": false
+  },
+  {
+    "id": "d05-carousel",
+    "type": "carousel",
+    "files": [
+      "b1/d05-c01.jpg",
+      "b1/d05-c02.jpg",
+      "b1/d05-c03.jpg",
+      "b1/d05-c04.jpg",
+      "b1/d05-c05.jpg",
+      "b1/d05-c06.jpg",
+      "b1/d05-c07.jpg",
+      "b1/d05-c08.jpg",
+      "b1/d05-c09.jpg",
+      "b1/d05-c10.jpg"
+    ],
+    "at": "2026-10-20 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 05 · ATY - Air Texturised Yarn\n\nIt looks like cotton but it's polyester filament. Meet ATY. Filament textured with air jets - spun-like look with a bulky, cotton-like feel.\n\nCounts: 150D - 600D  |  Popular: 2/150D, 300D\nUsed in: Upholstery, home textile, sportswear, curtains, bags\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Aty #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "p04-mills",
+    "type": "carousel",
+    "files": [
+      "posts/p04-mills.jpg",
+      "b4/cta.jpg"
     ],
     "at": "2026-10-20 12:30",
     "caption": "Authorised agent for India's leading spinning mills.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
-    "id": "p05-network",
-    "type": "image",
+    "id": "d05-story2",
+    "type": "story",
     "files": [
-      "p05-network.jpg"
+      "b1/d05-story2.jpg"
+    ],
+    "at": "2026-10-20 14:00",
+    "posted": false
+  },
+  {
+    "id": "d05-reel",
+    "type": "reel",
+    "files": [
+      "b1/d05-reel.mp4"
+    ],
+    "at": "2026-10-20 18:30",
+    "posted": false,
+    "caption": "ATY - Air Texturised Yarn in 30 seconds 🧵 It looks like cotton but it's polyester filament. Meet ATY. Counts: 150D - 600D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Aty #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d05-story3",
+    "type": "story",
+    "files": [
+      "b1/d05-story3.jpg"
+    ],
+    "at": "2026-10-20 20:00",
+    "posted": false
+  },
+  {
+    "id": "d06-story1",
+    "type": "story",
+    "files": [
+      "b1/d06-story1.jpg"
+    ],
+    "at": "2026-10-21 09:30",
+    "posted": false
+  },
+  {
+    "id": "d06-carousel",
+    "type": "carousel",
+    "files": [
+      "b1/d06-c01.jpg",
+      "b1/d06-c02.jpg",
+      "b1/d06-c03.jpg",
+      "b1/d06-c04.jpg",
+      "b1/d06-c05.jpg",
+      "b1/d06-c06.jpg",
+      "b1/d06-c07.jpg",
+      "b1/d06-c08.jpg",
+      "b1/d06-c09.jpg",
+      "b1/d06-c10.jpg"
+    ],
+    "at": "2026-10-21 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 06 · TPY - Twisted Polyester Yarn (TFO)\n\nInside our TFO unit: 150 tonnes of twisted yarn every month. Filament yarn twisted for extra strength - made in-house on our TFO machines.\n\nCounts: 75D - 600D  |  2-ply & 3-ply  |  TPM to order\nUsed in: Weaving, narrow fabric, sewing-type uses, technical textiles\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Tpy #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "p05-network",
+    "type": "carousel",
+    "files": [
+      "posts/p05-network.jpg",
+      "b4/cta.jpg"
     ],
     "at": "2026-10-21 12:30",
     "caption": "Connecting 22 textile hubs across India.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
-    "id": "p06-knowledge",
-    "type": "image",
+    "id": "d06-story2",
+    "type": "story",
     "files": [
-      "p06-knowledge.jpg"
+      "b1/d06-story2.jpg"
+    ],
+    "at": "2026-10-21 14:00",
+    "posted": false
+  },
+  {
+    "id": "d06-reel",
+    "type": "reel",
+    "files": [
+      "b1/d06-reel.mp4"
+    ],
+    "at": "2026-10-21 18:30",
+    "posted": false,
+    "caption": "TPY - Twisted Polyester Yarn (TFO) in 30 seconds 🧵 Inside our TFO unit: 150 tonnes of twisted yarn every month. Counts: 75D - 600D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Tpy #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d06-story3",
+    "type": "story",
+    "files": [
+      "b1/d06-story3.jpg"
+    ],
+    "at": "2026-10-21 20:00",
+    "posted": false
+  },
+  {
+    "id": "d07-story1",
+    "type": "story",
+    "files": [
+      "b1/d07-story1.jpg"
+    ],
+    "at": "2026-10-22 09:30",
+    "posted": false
+  },
+  {
+    "id": "d07-carousel",
+    "type": "carousel",
+    "files": [
+      "b1/d07-c01.jpg",
+      "b1/d07-c02.jpg",
+      "b1/d07-c03.jpg",
+      "b1/d07-c04.jpg",
+      "b1/d07-c05.jpg",
+      "b1/d07-c06.jpg",
+      "b1/d07-c07.jpg",
+      "b1/d07-c08.jpg",
+      "b1/d07-c09.jpg",
+      "b1/d07-c10.jpg"
+    ],
+    "at": "2026-10-22 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 07 · Mono Filament & SNZ Covering\n\nOne filament, thinner than hair. Here's what it does. Single continuous filament, and our in-house SNZ mono covered yarns.\n\nCounts: Mono 20D - 40D  |  Covered yarn to order\nUsed in: Mesh fabric, nets, sarees with transparency effect, technical textiles\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MonoFilamentSnzCovering #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "p06-knowledge",
+    "type": "carousel",
+    "files": [
+      "posts/p06-knowledge.jpg",
+      "b4/cta.jpg"
     ],
     "at": "2026-10-22 12:30",
     "caption": "84 free textile reports at shivpriyatexchem.com/knowledge\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
   },
   {
-    "id": "p07-whatsapp",
-    "type": "image",
+    "id": "d07-story2",
+    "type": "story",
     "files": [
-      "p07-whatsapp.jpg"
+      "b1/d07-story2.jpg"
+    ],
+    "at": "2026-10-22 14:00",
+    "posted": false
+  },
+  {
+    "id": "d07-reel",
+    "type": "reel",
+    "files": [
+      "b1/d07-reel.mp4"
+    ],
+    "at": "2026-10-22 18:30",
+    "posted": false,
+    "caption": "Mono Filament & SNZ Covering in 30 seconds 🧵 One filament, thinner than hair. Here's what it does. Counts: Mono 20D - 40D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MonoFilamentSnzCovering #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d07-story3",
+    "type": "story",
+    "files": [
+      "b1/d07-story3.jpg"
+    ],
+    "at": "2026-10-22 20:00",
+    "posted": false
+  },
+  {
+    "id": "d08-story1",
+    "type": "story",
+    "files": [
+      "b1/d08-story1.jpg"
+    ],
+    "at": "2026-10-23 09:30",
+    "posted": false
+  },
+  {
+    "id": "d08-carousel",
+    "type": "carousel",
+    "files": [
+      "b1/d08-c01.jpg",
+      "b1/d08-c02.jpg",
+      "b1/d08-c03.jpg",
+      "b1/d08-c04.jpg",
+      "b1/d08-c05.jpg",
+      "b1/d08-c06.jpg",
+      "b1/d08-c07.jpg",
+      "b1/d08-c08.jpg",
+      "b1/d08-c09.jpg",
+      "b1/d08-c10.jpg"
+    ],
+    "at": "2026-10-23 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 08 · DDY - Dope Dyed Yarn\n\nThis yarn never needs dyeing. Here's why. Colour added during fibre extrusion - colour is inside the fibre, not on the surface.\n\nCounts: 75D - 300D  |  Popular: 150/48 Black\nUsed in: Fashion, outdoor wear, athleisure, bags, automotive\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Ddy #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "p07-whatsapp",
+    "type": "carousel",
+    "files": [
+      "posts/p07-whatsapp.jpg",
+      "b4/cta.jpg"
     ],
     "at": "2026-10-23 12:30",
     "caption": "Let's talk yarn. Reach the right desk for your market.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia",
     "posted": false
+  },
+  {
+    "id": "d08-story2",
+    "type": "story",
+    "files": [
+      "b1/d08-story2.jpg"
+    ],
+    "at": "2026-10-23 14:00",
+    "posted": false
+  },
+  {
+    "id": "d08-reel",
+    "type": "reel",
+    "files": [
+      "b1/d08-reel.mp4"
+    ],
+    "at": "2026-10-23 18:30",
+    "posted": false,
+    "caption": "DDY - Dope Dyed Yarn in 30 seconds 🧵 This yarn never needs dyeing. Here's why. Counts: 75D - 300D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Ddy #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d08-story3",
+    "type": "story",
+    "files": [
+      "b1/d08-story3.jpg"
+    ],
+    "at": "2026-10-23 20:00",
+    "posted": false
+  },
+  {
+    "id": "d09-story1",
+    "type": "story",
+    "files": [
+      "b1/d09-story1.jpg"
+    ],
+    "at": "2026-10-24 09:30",
+    "posted": false
+  },
+  {
+    "id": "d09-carousel",
+    "type": "carousel",
+    "files": [
+      "b1/d09-c01.jpg",
+      "b1/d09-c02.jpg",
+      "b1/d09-c03.jpg",
+      "b1/d09-c04.jpg",
+      "b1/d09-c05.jpg",
+      "b1/d09-c06.jpg",
+      "b1/d09-c07.jpg",
+      "b1/d09-c08.jpg",
+      "b1/d09-c09.jpg",
+      "b1/d09-c10.jpg"
+    ],
+    "at": "2026-10-24 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 09 · Nylon Yarn\n\nStrong, light, stretchy - why socks and sportswear love nylon. Polyamide yarn - very strong, light and abrasion resistant.\n\nCounts: 20D - 210D  |  Popular: 40/34, 70/24, 70/68\nUsed in: Hosiery, sportswear, socks, swimwear, technical textiles\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#NylonYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d09-story2",
+    "type": "story",
+    "files": [
+      "b1/d09-story2.jpg"
+    ],
+    "at": "2026-10-24 14:00",
+    "posted": false
+  },
+  {
+    "id": "d09-reel",
+    "type": "reel",
+    "files": [
+      "b1/d09-reel.mp4"
+    ],
+    "at": "2026-10-24 18:30",
+    "posted": false,
+    "caption": "Nylon Yarn in 30 seconds 🧵 Strong, light, stretchy - why socks and sportswear love nylon. Counts: 20D - 210D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#NylonYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d09-story3",
+    "type": "story",
+    "files": [
+      "b1/d09-story3.jpg"
+    ],
+    "at": "2026-10-24 20:00",
+    "posted": false
+  },
+  {
+    "id": "fest-sharad-purnima-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-10-25-sharad-purnima-story.jpg"
+    ],
+    "at": "2026-10-25 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-sharad-purnima-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-10-25-sharad-purnima-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-10-25 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Sharad Purnima from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Sharad #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
+    "id": "d10-story1",
+    "type": "story",
+    "files": [
+      "b1/d10-story1.jpg"
+    ],
+    "at": "2026-10-25 09:30",
+    "posted": false
+  },
+  {
+    "id": "d10-carousel",
+    "type": "carousel",
+    "files": [
+      "b1/d10-c01.jpg",
+      "b1/d10-c02.jpg",
+      "b1/d10-c03.jpg",
+      "b1/d10-c04.jpg",
+      "b1/d10-c05.jpg",
+      "b1/d10-c06.jpg",
+      "b1/d10-c07.jpg",
+      "b1/d10-c08.jpg",
+      "b1/d10-c09.jpg",
+      "b1/d10-c10.jpg"
+    ],
+    "at": "2026-10-25 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 10 · Polyester & Viscose Lycra\n\nWhy do leggings come back to shape? The answer is in the yarn. Elastane (Lycra) core wrapped with polyester or viscose - stretch with comfort.\n\nCounts: Ne 30s - 40s + 20D/40D Lycra  |  150D + 40D\nUsed in: Stretch denim, leggings, sportswear, kurtis, swimwear\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PolyesterViscoseLycra #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d10-story2",
+    "type": "story",
+    "files": [
+      "b1/d10-story2.jpg"
+    ],
+    "at": "2026-10-25 14:00",
+    "posted": false
+  },
+  {
+    "id": "d10-reel",
+    "type": "reel",
+    "files": [
+      "b1/d10-reel.mp4"
+    ],
+    "at": "2026-10-25 18:30",
+    "posted": false,
+    "caption": "Polyester & Viscose Lycra in 30 seconds 🧵 Why do leggings come back to shape? The answer is in the yarn. Counts: Ne 30s - 40s + 20D/40D Lycra.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PolyesterViscoseLycra #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d10-story3",
+    "type": "story",
+    "files": [
+      "b1/d10-story3.jpg"
+    ],
+    "at": "2026-10-25 20:00",
+    "posted": false
+  },
+  {
+    "id": "d11-story1",
+    "type": "story",
+    "files": [
+      "b1/d11-story1.jpg"
+    ],
+    "at": "2026-10-26 09:30",
+    "posted": false
+  },
+  {
+    "id": "d11-carousel",
+    "type": "carousel",
+    "files": [
+      "b1/d11-c01.jpg",
+      "b1/d11-c02.jpg",
+      "b1/d11-c03.jpg",
+      "b1/d11-c04.jpg",
+      "b1/d11-c05.jpg",
+      "b1/d11-c06.jpg",
+      "b1/d11-c07.jpg",
+      "b1/d11-c08.jpg",
+      "b1/d11-c09.jpg",
+      "b1/d11-c10.jpg"
+    ],
+    "at": "2026-10-26 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 11 · Superstretch Yarn\n\nGym wear that moves with you starts here. High-elastic yarns of nylon/polyester with spandex for maximum stretch.\n\nCounts: Popular: 70D + 20D  |  Compositions to order\nUsed in: Activewear, swimwear, compression wear, innerwear\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SuperstretchYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d11-story2",
+    "type": "story",
+    "files": [
+      "b1/d11-story2.jpg"
+    ],
+    "at": "2026-10-26 14:00",
+    "posted": false
+  },
+  {
+    "id": "d11-reel",
+    "type": "reel",
+    "files": [
+      "b1/d11-reel.mp4"
+    ],
+    "at": "2026-10-26 18:30",
+    "posted": false,
+    "caption": "Superstretch Yarn in 30 seconds 🧵 Gym wear that moves with you starts here. Counts: Popular: 70D + 20D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SuperstretchYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d11-story3",
+    "type": "story",
+    "files": [
+      "b1/d11-story3.jpg"
+    ],
+    "at": "2026-10-26 20:00",
+    "posted": false
+  },
+  {
+    "id": "d12-story1",
+    "type": "story",
+    "files": [
+      "b2/d12-story1.jpg"
+    ],
+    "at": "2026-10-27 09:30",
+    "posted": false
+  },
+  {
+    "id": "d12-carousel",
+    "type": "carousel",
+    "files": [
+      "b2/d12-c01.jpg",
+      "b2/d12-c02.jpg",
+      "b2/d12-c03.jpg",
+      "b2/d12-c04.jpg",
+      "b2/d12-c05.jpg",
+      "b2/d12-c06.jpg",
+      "b2/d12-c07.jpg",
+      "b2/d12-c08.jpg",
+      "b2/d12-c09.jpg",
+      "b2/d12-c10.jpg"
+    ],
+    "at": "2026-10-27 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 12 · Viscose Spun Yarn\n\nMade from wood pulp, feels like silk. Meet viscose. Regenerated cellulose (rayon) yarn - soft, breathable, with natural lustre.\n\nCounts: Ne 20s - 60s  |  Popular: 30s, 40s\nUsed in: Apparel, kurtis, dress material, home textile, woven fabrics\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ViscoseSpunYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d12-story2",
+    "type": "story",
+    "files": [
+      "b2/d12-story2.jpg"
+    ],
+    "at": "2026-10-27 14:00",
+    "posted": false
+  },
+  {
+    "id": "d12-reel",
+    "type": "reel",
+    "files": [
+      "b2/d12-reel.mp4"
+    ],
+    "at": "2026-10-27 18:30",
+    "posted": false,
+    "caption": "Viscose Spun Yarn in 30 seconds 🧵 Made from wood pulp, feels like silk. Meet viscose. Counts: Ne 20s - 60s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#ViscoseSpunYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d12-story3",
+    "type": "story",
+    "files": [
+      "b2/d12-story3.jpg"
+    ],
+    "at": "2026-10-27 20:00",
+    "posted": false
+  },
+  {
+    "id": "d13-story1",
+    "type": "story",
+    "files": [
+      "b2/d13-story1.jpg"
+    ],
+    "at": "2026-10-28 09:30",
+    "posted": false
+  },
+  {
+    "id": "d13-carousel",
+    "type": "carousel",
+    "files": [
+      "b2/d13-c01.jpg",
+      "b2/d13-c02.jpg",
+      "b2/d13-c03.jpg",
+      "b2/d13-c04.jpg",
+      "b2/d13-c05.jpg",
+      "b2/d13-c06.jpg",
+      "b2/d13-c07.jpg",
+      "b2/d13-c08.jpg",
+      "b2/d13-c09.jpg",
+      "b2/d13-c10.jpg"
+    ],
+    "at": "2026-10-28 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 13 · Cotton Yarn\n\nCarded vs combed cotton - what's the difference? 100% natural cotton yarn - carded, combed and compact qualities.\n\nCounts: Ne 6s - 100s  |  Carded 10s-40s  |  Combed 30s-80s\nUsed in: Shirting, hosiery, T-shirts, towels, bedsheets\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CottonYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d13-story2",
+    "type": "story",
+    "files": [
+      "b2/d13-story2.jpg"
+    ],
+    "at": "2026-10-28 14:00",
+    "posted": false
+  },
+  {
+    "id": "d13-reel",
+    "type": "reel",
+    "files": [
+      "b2/d13-reel.mp4"
+    ],
+    "at": "2026-10-28 18:30",
+    "posted": false,
+    "caption": "Cotton Yarn in 30 seconds 🧵 Carded vs combed cotton - what's the difference? Counts: Ne 6s - 100s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CottonYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d13-story3",
+    "type": "story",
+    "files": [
+      "b2/d13-story3.jpg"
+    ],
+    "at": "2026-10-28 20:00",
+    "posted": false
+  },
+  {
+    "id": "fest-karwa-chauth-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-10-29-karwa-chauth-story.jpg"
+    ],
+    "at": "2026-10-29 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-karwa-chauth-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-10-29-karwa-chauth-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-10-29 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Karwa Chauth from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Karwa #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
+    "id": "d14-story1",
+    "type": "story",
+    "files": [
+      "b2/d14-story1.jpg"
+    ],
+    "at": "2026-10-29 09:30",
+    "posted": false
+  },
+  {
+    "id": "d14-carousel",
+    "type": "carousel",
+    "files": [
+      "b2/d14-c01.jpg",
+      "b2/d14-c02.jpg",
+      "b2/d14-c03.jpg",
+      "b2/d14-c04.jpg",
+      "b2/d14-c05.jpg",
+      "b2/d14-c06.jpg",
+      "b2/d14-c07.jpg",
+      "b2/d14-c08.jpg",
+      "b2/d14-c09.jpg",
+      "b2/d14-c10.jpg"
+    ],
+    "at": "2026-10-29 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 14 · Compact Yarns\n\nSame cotton, smoother yarn. The secret is compact spinning. Ring spun with suction condensation - less hairiness, more strength.\n\nCounts: Ne 30s - 120s\nUsed in: Premium shirting, fine knitwear, technical fabric\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CompactYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d14-story2",
+    "type": "story",
+    "files": [
+      "b2/d14-story2.jpg"
+    ],
+    "at": "2026-10-29 14:00",
+    "posted": false
+  },
+  {
+    "id": "ai-teaser1-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-10-29-teaser1-story.jpg"
+    ],
+    "at": "2026-10-29 18:00",
+    "posted": false
+  },
+  {
+    "id": "d14-reel",
+    "type": "reel",
+    "files": [
+      "b2/d14-reel.mp4"
+    ],
+    "at": "2026-10-29 18:30",
+    "posted": false,
+    "caption": "Compact Yarns in 30 seconds 🧵 Same cotton, smoother yarn. The secret is compact spinning. Counts: Ne 30s - 120s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CompactYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d14-story3",
+    "type": "story",
+    "files": [
+      "b2/d14-story3.jpg"
+    ],
+    "at": "2026-10-29 20:00",
+    "posted": false
+  },
+  {
+    "id": "d15-story1",
+    "type": "story",
+    "files": [
+      "b2/d15-story1.jpg"
+    ],
+    "at": "2026-10-30 09:30",
+    "posted": false
+  },
+  {
+    "id": "d15-carousel",
+    "type": "carousel",
+    "files": [
+      "b2/d15-c01.jpg",
+      "b2/d15-c02.jpg",
+      "b2/d15-c03.jpg",
+      "b2/d15-c04.jpg",
+      "b2/d15-c05.jpg",
+      "b2/d15-c06.jpg",
+      "b2/d15-c07.jpg",
+      "b2/d15-c08.jpg",
+      "b2/d15-c09.jpg",
+      "b2/d15-c10.jpg"
+    ],
+    "at": "2026-10-30 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 15 · Siro / Eli Twist Yarns\n\nLooks like 2-ply, costs like single. That's Siro. Two rovings twisted together on the ring frame - two-ply look, single-yarn cost.\n\nCounts: Ne 30s - 80s\nUsed in: Shirting, fine fabrics, high-end apparel\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SiroEliTwistYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d15-story2",
+    "type": "story",
+    "files": [
+      "b2/d15-story2.jpg"
+    ],
+    "at": "2026-10-30 14:00",
+    "posted": false
+  },
+  {
+    "id": "d15-reel",
+    "type": "reel",
+    "files": [
+      "b2/d15-reel.mp4"
+    ],
+    "at": "2026-10-30 18:30",
+    "posted": false,
+    "caption": "Siro / Eli Twist Yarns in 30 seconds 🧵 Looks like 2-ply, costs like single. That's Siro. Counts: Ne 30s - 80s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SiroEliTwistYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d15-story3",
+    "type": "story",
+    "files": [
+      "b2/d15-story3.jpg"
+    ],
+    "at": "2026-10-30 20:00",
+    "posted": false
+  },
+  {
+    "id": "d16-story1",
+    "type": "story",
+    "files": [
+      "b2/d16-story1.jpg"
+    ],
+    "at": "2026-10-31 09:30",
+    "posted": false
+  },
+  {
+    "id": "d16-carousel",
+    "type": "carousel",
+    "files": [
+      "b2/d16-c01.jpg",
+      "b2/d16-c02.jpg",
+      "b2/d16-c03.jpg",
+      "b2/d16-c04.jpg",
+      "b2/d16-c05.jpg",
+      "b2/d16-c06.jpg",
+      "b2/d16-c07.jpg",
+      "b2/d16-c08.jpg",
+      "b2/d16-c09.jpg",
+      "b2/d16-c10.jpg"
+    ],
+    "at": "2026-10-31 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 16 · OE (Open End) Yarns\n\nYour jeans probably started as OE yarn. Rotor-spun yarn - fast production, bulky, cost-effective.\n\nCounts: Ne 4s - 30s  |  Popular: 10s, 16s, 20s\nUsed in: Denim, towels, workwear, industrial fabric\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Oe #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d16-story2",
+    "type": "story",
+    "files": [
+      "b2/d16-story2.jpg"
+    ],
+    "at": "2026-10-31 14:00",
+    "posted": false
+  },
+  {
+    "id": "d16-reel",
+    "type": "reel",
+    "files": [
+      "b2/d16-reel.mp4"
+    ],
+    "at": "2026-10-31 18:30",
+    "posted": false,
+    "caption": "OE (Open End) Yarns in 30 seconds 🧵 Your jeans probably started as OE yarn. Counts: Ne 4s - 30s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Oe #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d16-story3",
+    "type": "story",
+    "files": [
+      "b2/d16-story3.jpg"
+    ],
+    "at": "2026-10-31 20:00",
+    "posted": false
+  },
+  {
+    "id": "d17-story1",
+    "type": "story",
+    "files": [
+      "b2/d17-story1.jpg"
+    ],
+    "at": "2026-11-01 09:30",
+    "posted": false
+  },
+  {
+    "id": "d17-carousel",
+    "type": "carousel",
+    "files": [
+      "b2/d17-c01.jpg",
+      "b2/d17-c02.jpg",
+      "b2/d17-c03.jpg",
+      "b2/d17-c04.jpg",
+      "b2/d17-c05.jpg",
+      "b2/d17-c06.jpg",
+      "b2/d17-c07.jpg",
+      "b2/d17-c08.jpg",
+      "b2/d17-c09.jpg",
+      "b2/d17-c10.jpg"
+    ],
+    "at": "2026-11-01 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 17 · P/V Blended Yarn\n\nWhy is your school uniform P/V? Here's the science. Polyester-viscose blend - strength of polyester, comfort of viscose.\n\nCounts: Ne 20s - 60s  |  2/30s, 2/40s  |  Ratios 65/35, 70/30, 80/20\nUsed in: Suiting, school uniforms, trousers, shirting\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PVBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d17-story2",
+    "type": "story",
+    "files": [
+      "b2/d17-story2.jpg"
+    ],
+    "at": "2026-11-01 14:00",
+    "posted": false
+  },
+  {
+    "id": "ai-teaser2-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-01-teaser2-story.jpg"
+    ],
+    "at": "2026-11-01 18:00",
+    "posted": false
+  },
+  {
+    "id": "d17-reel",
+    "type": "reel",
+    "files": [
+      "b2/d17-reel.mp4"
+    ],
+    "at": "2026-11-01 18:30",
+    "posted": false,
+    "caption": "P/V Blended Yarn in 30 seconds 🧵 Why is your school uniform P/V? Here's the science. Counts: Ne 20s - 60s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PVBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d17-story3",
+    "type": "story",
+    "files": [
+      "b2/d17-story3.jpg"
+    ],
+    "at": "2026-11-01 20:00",
+    "posted": false
+  },
+  {
+    "id": "d18-story1",
+    "type": "story",
+    "files": [
+      "b2/d18-story1.jpg"
+    ],
+    "at": "2026-11-02 09:30",
+    "posted": false
+  },
+  {
+    "id": "d18-carousel",
+    "type": "carousel",
+    "files": [
+      "b2/d18-c01.jpg",
+      "b2/d18-c02.jpg",
+      "b2/d18-c03.jpg",
+      "b2/d18-c04.jpg",
+      "b2/d18-c05.jpg",
+      "b2/d18-c06.jpg",
+      "b2/d18-c07.jpg",
+      "b2/d18-c08.jpg",
+      "b2/d18-c09.jpg",
+      "b2/d18-c10.jpg"
+    ],
+    "at": "2026-11-02 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 18 · P/C & C/P Blended Yarn\n\nP/C or C/P? The first letter tells you the main fibre. Polyester-cotton blends - durable and easy-care, with cotton comfort.\n\nCounts: Ne 20s - 45s  |  Ratios 65/35 PC, 52/48, CVC 60/40\nUsed in: Shirting, uniforms, workwear, T-shirts, bedsheets\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PCCPBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d18-story2",
+    "type": "story",
+    "files": [
+      "b2/d18-story2.jpg"
+    ],
+    "at": "2026-11-02 14:00",
+    "posted": false
+  },
+  {
+    "id": "d18-reel",
+    "type": "reel",
+    "files": [
+      "b2/d18-reel.mp4"
+    ],
+    "at": "2026-11-02 18:30",
+    "posted": false,
+    "caption": "P/C & C/P Blended Yarn in 30 seconds 🧵 P/C or C/P? The first letter tells you the main fibre. Counts: Ne 20s - 45s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PCCPBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d18-story3",
+    "type": "story",
+    "files": [
+      "b2/d18-story3.jpg"
+    ],
+    "at": "2026-11-02 20:00",
+    "posted": false
+  },
+  {
+    "id": "d19-story1",
+    "type": "story",
+    "files": [
+      "b3/d19-story1.jpg"
+    ],
+    "at": "2026-11-03 09:30",
+    "posted": false
+  },
+  {
+    "id": "d19-carousel",
+    "type": "carousel",
+    "files": [
+      "b3/d19-c01.jpg",
+      "b3/d19-c02.jpg",
+      "b3/d19-c03.jpg",
+      "b3/d19-c04.jpg",
+      "b3/d19-c05.jpg",
+      "b3/d19-c06.jpg",
+      "b3/d19-c07.jpg",
+      "b3/d19-c08.jpg",
+      "b3/d19-c09.jpg",
+      "b3/d19-c10.jpg"
+    ],
+    "at": "2026-11-03 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 19 · Cotton-Viscose Blend\n\nWant cotton that flows? Add viscose. Cotton and viscose together - soft, with better drape than pure cotton.\n\nCounts: Ne 20s - 40s  |  Ratios 60/40, 50/50\nUsed in: Shirting, dress fabrics, kurtis, knitwear\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CottonViscoseBlend #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d19-story2",
+    "type": "story",
+    "files": [
+      "b3/d19-story2.jpg"
+    ],
+    "at": "2026-11-03 14:00",
+    "posted": false
+  },
+  {
+    "id": "d19-reel",
+    "type": "reel",
+    "files": [
+      "b3/d19-reel.mp4"
+    ],
+    "at": "2026-11-03 18:30",
+    "posted": false,
+    "caption": "Cotton-Viscose Blend in 30 seconds 🧵 Want cotton that flows? Add viscose. Counts: Ne 20s - 40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CottonViscoseBlend #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d19-story3",
+    "type": "story",
+    "files": [
+      "b3/d19-story3.jpg"
+    ],
+    "at": "2026-11-03 20:00",
+    "posted": false
+  },
+  {
+    "id": "d20-story1",
+    "type": "story",
+    "files": [
+      "b3/d20-story1.jpg"
+    ],
+    "at": "2026-11-04 09:30",
+    "posted": false
+  },
+  {
+    "id": "d20-carousel",
+    "type": "carousel",
+    "files": [
+      "b3/d20-c01.jpg",
+      "b3/d20-c02.jpg",
+      "b3/d20-c03.jpg",
+      "b3/d20-c04.jpg",
+      "b3/d20-c05.jpg",
+      "b3/d20-c06.jpg",
+      "b3/d20-c07.jpg",
+      "b3/d20-c08.jpg",
+      "b3/d20-c09.jpg",
+      "b3/d20-c10.jpg"
+    ],
+    "at": "2026-11-04 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 20 · Micro Modal - Cotton\n\nThe softest innerwear in the market uses this yarn. Ultra-fine modal blended with cotton - extremely soft and light.\n\nCounts: Ne 30s - 60s  |  Ratio 50/50\nUsed in: Innerwear, loungewear, athleisure, T-shirts\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MicroModal #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d20-story2",
+    "type": "story",
+    "files": [
+      "b3/d20-story2.jpg"
+    ],
+    "at": "2026-11-04 14:00",
+    "posted": false
+  },
+  {
+    "id": "ai-teaser3-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-04-teaser3-story.jpg"
+    ],
+    "at": "2026-11-04 18:00",
+    "posted": false
+  },
+  {
+    "id": "d20-reel",
+    "type": "reel",
+    "files": [
+      "b3/d20-reel.mp4"
+    ],
+    "at": "2026-11-04 18:30",
+    "posted": false,
+    "caption": "Micro Modal - Cotton in 30 seconds 🧵 The softest innerwear in the market uses this yarn. Counts: Ne 30s - 60s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MicroModal #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d20-story3",
+    "type": "story",
+    "files": [
+      "b3/d20-story3.jpg"
+    ],
+    "at": "2026-11-04 20:00",
+    "posted": false
+  },
+  {
+    "id": "d21-story1",
+    "type": "story",
+    "files": [
+      "b3/d21-story1.jpg"
+    ],
+    "at": "2026-11-05 09:30",
+    "posted": false
+  },
+  {
+    "id": "d21-carousel",
+    "type": "carousel",
+    "files": [
+      "b3/d21-c01.jpg",
+      "b3/d21-c02.jpg",
+      "b3/d21-c03.jpg",
+      "b3/d21-c04.jpg",
+      "b3/d21-c05.jpg",
+      "b3/d21-c06.jpg",
+      "b3/d21-c07.jpg",
+      "b3/d21-c08.jpg",
+      "b3/d21-c09.jpg",
+      "b3/d21-c10.jpg"
+    ],
+    "at": "2026-11-05 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 21 · Tencel / Lyocell / Modal / EcoVero\n\nFashion that's kind to the planet - premium cellulosic yarns. Eco-certified premium cellulosic fibres - silky, cool and biodegradable.\n\nCounts: Ne 30s - 80s\nUsed in: Premium apparel, activewear, innerwear, home textile\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#TencelLyocellModalEcovero #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d21-story2",
+    "type": "story",
+    "files": [
+      "b3/d21-story2.jpg"
+    ],
+    "at": "2026-11-05 14:00",
+    "posted": false
+  },
+  {
+    "id": "d21-reel",
+    "type": "reel",
+    "files": [
+      "b3/d21-reel.mp4"
+    ],
+    "at": "2026-11-05 18:30",
+    "posted": false,
+    "caption": "Tencel / Lyocell / Modal / EcoVero in 30 seconds 🧵 Fashion that's kind to the planet - premium cellulosic yarns. Counts: Ne 30s - 80s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#TencelLyocellModalEcovero #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d21-story3",
+    "type": "story",
+    "files": [
+      "b3/d21-story3.jpg"
+    ],
+    "at": "2026-11-05 20:00",
+    "posted": false
+  },
+  {
+    "id": "fest-dhanteras-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-06-dhanteras-story.jpg"
+    ],
+    "at": "2026-11-06 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-dhanteras-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-11-06-dhanteras-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-11-06 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Dhanteras from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Dhanteras #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
+    "id": "d22-story1",
+    "type": "story",
+    "files": [
+      "b3/d22-story1.jpg"
+    ],
+    "at": "2026-11-06 09:30",
+    "posted": false
+  },
+  {
+    "id": "d22-carousel",
+    "type": "carousel",
+    "files": [
+      "b3/d22-c01.jpg",
+      "b3/d22-c02.jpg",
+      "b3/d22-c03.jpg",
+      "b3/d22-c04.jpg",
+      "b3/d22-c05.jpg",
+      "b3/d22-c06.jpg",
+      "b3/d22-c07.jpg",
+      "b3/d22-c08.jpg",
+      "b3/d22-c09.jpg",
+      "b3/d22-c10.jpg"
+    ],
+    "at": "2026-11-06 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 22 · Flax (Linen) & Blends\n\nWhy does linen feel cool in Indian summers? Linen yarns and blends - naturally cool, strong and long-lasting.\n\nCounts: Ne 8s - 40s  |  Blends 20s - 40s\nUsed in: Summer shirts, suiting, home textile, table linen\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Flax #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d22-story2",
+    "type": "story",
+    "files": [
+      "b3/d22-story2.jpg"
+    ],
+    "at": "2026-11-06 14:00",
+    "posted": false
+  },
+  {
+    "id": "d22-reel",
+    "type": "reel",
+    "files": [
+      "b3/d22-reel.mp4"
+    ],
+    "at": "2026-11-06 18:30",
+    "posted": false,
+    "caption": "Flax (Linen) & Blends in 30 seconds 🧵 Why does linen feel cool in Indian summers? Counts: Ne 8s - 40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Flax #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d22-story3",
+    "type": "story",
+    "files": [
+      "b3/d22-story3.jpg"
+    ],
+    "at": "2026-11-06 20:00",
+    "posted": false
+  },
+  {
+    "id": "d23-story1",
+    "type": "story",
+    "files": [
+      "b3/d23-story1.jpg"
+    ],
+    "at": "2026-11-07 09:30",
+    "posted": false
+  },
+  {
+    "id": "d23-carousel",
+    "type": "carousel",
+    "files": [
+      "b3/d23-c01.jpg",
+      "b3/d23-c02.jpg",
+      "b3/d23-c03.jpg",
+      "b3/d23-c04.jpg",
+      "b3/d23-c05.jpg",
+      "b3/d23-c06.jpg",
+      "b3/d23-c07.jpg",
+      "b3/d23-c08.jpg",
+      "b3/d23-c09.jpg",
+      "b3/d23-c10.jpg"
+    ],
+    "at": "2026-11-07 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 23 · Hemp, Bamboo, Acrylic & Wool\n\n4 fibres, 4 superpowers. Which one do you need? Eco and natural fibres - from sustainable hemp & bamboo to warm acrylic & wool.\n\nCounts: Bamboo Ne 20s-40s  |  Acrylic 2/24-2/48 Nm  |  Wool 2/28-2/60 Nm\nUsed in: Sustainable apparel, winter wear, sweaters, shawls, activewear\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#HempBambooAcrylicWool #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d23-story2",
+    "type": "story",
+    "files": [
+      "b3/d23-story2.jpg"
+    ],
+    "at": "2026-11-07 14:00",
+    "posted": false
+  },
+  {
+    "id": "ai-teaser4-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-07-teaser4-story.jpg"
+    ],
+    "at": "2026-11-07 18:00",
+    "posted": false
+  },
+  {
+    "id": "d23-reel",
+    "type": "reel",
+    "files": [
+      "b3/d23-reel.mp4"
+    ],
+    "at": "2026-11-07 18:30",
+    "posted": false,
+    "caption": "Hemp, Bamboo, Acrylic & Wool in 30 seconds 🧵 4 fibres, 4 superpowers. Which one do you need? Counts: Bamboo Ne 20s-40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#HempBambooAcrylicWool #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d23-story3",
+    "type": "story",
+    "files": [
+      "b3/d23-story3.jpg"
+    ],
+    "at": "2026-11-07 20:00",
+    "posted": false
+  },
+  {
+    "id": "fest-diwali-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-08-diwali-story.jpg"
+    ],
+    "at": "2026-11-08 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-diwali-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-11-08-diwali-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-11-08 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Diwali from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Diwali #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
+    "id": "d24-story1",
+    "type": "story",
+    "files": [
+      "b3/d24-story1.jpg"
+    ],
+    "at": "2026-11-08 09:30",
+    "posted": false
+  },
+  {
+    "id": "d24-carousel",
+    "type": "carousel",
+    "files": [
+      "b3/d24-c01.jpg",
+      "b3/d24-c02.jpg",
+      "b3/d24-c03.jpg",
+      "b3/d24-c04.jpg",
+      "b3/d24-c05.jpg",
+      "b3/d24-c06.jpg",
+      "b3/d24-c07.jpg",
+      "b3/d24-c08.jpg",
+      "b3/d24-c09.jpg",
+      "b3/d24-c10.jpg"
+    ],
+    "at": "2026-11-08 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 24 · Recycled / GRS Polyester\n\nFrom plastic bottle to yarn. Here's the journey. Yarn made from recycled PET bottles - GRS-certified for traceability.\n\nCounts: Spun Ne 20s-40s  |  Filament 75D-300D\nUsed in: Export garments, sportswear, bags, home textile\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#RecycledGrsPolyester #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "ai-launch-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-11-08-launch-post.jpg",
+      "b4/ai2.jpg",
+      "b4/ai3.jpg"
+    ],
+    "at": "2026-11-08 12:00",
+    "posted": false,
+    "caption": "Shivpriya Yarns AI is live. 🚀 Thirty years of yarn trading, taught to a machine — built 100% in-house, one platform for buyers & mills, with the Shivpriya team behind every conversation.\n\nWhatsApp +91 87672 50274 for access · shivpriyatexchem.com/yarn-ai\n\n#ShivpriyaYarnsAI #Diwali2026 #ShivpriyaTexchem #YarnTrading #AI"
+  },
+  {
+    "id": "ai-launch-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-08-launch-story.jpg"
+    ],
+    "at": "2026-11-08 12:05",
+    "posted": false
+  },
+  {
+    "id": "d24-story2",
+    "type": "story",
+    "files": [
+      "b3/d24-story2.jpg"
+    ],
+    "at": "2026-11-08 14:00",
+    "posted": false
+  },
+  {
+    "id": "d24-reel",
+    "type": "reel",
+    "files": [
+      "b3/d24-reel.mp4"
+    ],
+    "at": "2026-11-08 18:30",
+    "posted": false,
+    "caption": "Recycled / GRS Polyester in 30 seconds 🧵 From plastic bottle to yarn. Here's the journey. Counts: Spun Ne 20s-40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#RecycledGrsPolyester #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d24-story3",
+    "type": "story",
+    "files": [
+      "b3/d24-story3.jpg"
+    ],
+    "at": "2026-11-08 20:00",
+    "posted": false
+  },
+  {
+    "id": "d25-story1",
+    "type": "story",
+    "files": [
+      "b3/d25-story1.jpg"
+    ],
+    "at": "2026-11-09 09:30",
+    "posted": false
+  },
+  {
+    "id": "d25-carousel",
+    "type": "carousel",
+    "files": [
+      "b3/d25-c01.jpg",
+      "b3/d25-c02.jpg",
+      "b3/d25-c03.jpg",
+      "b3/d25-c04.jpg",
+      "b3/d25-c05.jpg",
+      "b3/d25-c06.jpg",
+      "b3/d25-c07.jpg",
+      "b3/d25-c08.jpg",
+      "b3/d25-c09.jpg",
+      "b3/d25-c10.jpg"
+    ],
+    "at": "2026-11-09 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 25 · Dyed & Melange Yarns\n\nThat grey T-shirt look is called melange. Ready-coloured yarns - single dyed, double dyed and melange (heather) effects.\n\nCounts: Spun Ne 20s-40s  |  Filament 75D-300D\nUsed in: Fashion knitwear, T-shirts, athleisure, track pants\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#DyedMelangeYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d25-story2",
+    "type": "story",
+    "files": [
+      "b3/d25-story2.jpg"
+    ],
+    "at": "2026-11-09 14:00",
+    "posted": false
+  },
+  {
+    "id": "d25-reel",
+    "type": "reel",
+    "files": [
+      "b3/d25-reel.mp4"
+    ],
+    "at": "2026-11-09 18:30",
+    "posted": false,
+    "caption": "Dyed & Melange Yarns in 30 seconds 🧵 That grey T-shirt look is called melange. Counts: Spun Ne 20s-40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#DyedMelangeYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d25-story3",
+    "type": "story",
+    "files": [
+      "b3/d25-story3.jpg"
+    ],
+    "at": "2026-11-09 20:00",
+    "posted": false
+  },
+  {
+    "id": "fest-new-year-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-10-new-year-story.jpg"
+    ],
+    "at": "2026-11-10 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-new-year-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-11-10-new-year-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-11-10 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Govardhan Puja & New Year from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Govardhan #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
+    "id": "d26-story1",
+    "type": "story",
+    "files": [
+      "b4/d26-story1.jpg"
+    ],
+    "at": "2026-11-10 09:30",
+    "posted": false
+  },
+  {
+    "id": "d26-carousel",
+    "type": "carousel",
+    "files": [
+      "b4/d26-c01.jpg",
+      "b4/d26-c02.jpg",
+      "b4/d26-c03.jpg",
+      "b4/d26-c04.jpg",
+      "b4/d26-c05.jpg",
+      "b4/d26-c06.jpg",
+      "b4/d26-c07.jpg",
+      "b4/d26-c08.jpg",
+      "b4/d26-c09.jpg",
+      "b4/d26-c10.jpg"
+    ],
+    "at": "2026-11-10 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 26 · Fancy Yarns - Slub & Neppy\n\nImperfect on purpose - the beauty of slub yarn. Yarns with designed texture - slub, neppy, jaspe and more. Our TFO fancy unit makes 150 t/month.\n\nCounts: Ne 6s - 40s  |  Slub length/thickness to order\nUsed in: Fashion fabric, denim look, upholstery, kurtas\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#FancyYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d26-story2",
+    "type": "story",
+    "files": [
+      "b4/d26-story2.jpg"
+    ],
+    "at": "2026-11-10 14:00",
+    "posted": false
+  },
+  {
+    "id": "d26-reel",
+    "type": "reel",
+    "files": [
+      "b4/d26-reel.mp4"
+    ],
+    "at": "2026-11-10 18:30",
+    "posted": false,
+    "caption": "Fancy Yarns - Slub & Neppy in 30 seconds 🧵 Imperfect on purpose - the beauty of slub yarn. Counts: Ne 6s - 40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#FancyYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d26-story3",
+    "type": "story",
+    "files": [
+      "b4/d26-story3.jpg"
+    ],
+    "at": "2026-11-10 20:00",
+    "posted": false
+  },
+  {
+    "id": "fest-bhai-dooj-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-11-bhai-dooj-story.jpg"
+    ],
+    "at": "2026-11-11 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-bhai-dooj-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-11-11-bhai-dooj-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-11-11 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Bhai Dooj from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Bhai #ShivpriyaTexchem #FestiveWishes"
+  },
+  {
+    "id": "d27-story1",
+    "type": "story",
+    "files": [
+      "b4/d27-story1.jpg"
+    ],
+    "at": "2026-11-11 09:30",
+    "posted": false
+  },
+  {
+    "id": "d27-carousel",
+    "type": "carousel",
+    "files": [
+      "b4/d27-c01.jpg",
+      "b4/d27-c02.jpg",
+      "b4/d27-c03.jpg",
+      "b4/d27-c04.jpg",
+      "b4/d27-c05.jpg",
+      "b4/d27-c06.jpg",
+      "b4/d27-c07.jpg",
+      "b4/d27-c08.jpg",
+      "b4/d27-c09.jpg",
+      "b4/d27-c10.jpg"
+    ],
+    "at": "2026-11-11 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 27 · Indigo Dyed Yarn\n\nWhy do jeans fade so beautifully? Look at the yarn. Ring/rope dyed indigo yarn - the heart of every denim.\n\nCounts: Ne 6s - 30s  |  Various indigo %\nUsed in: Denim, jeans, casual wear, jackets\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#IndigoDyedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d27-story2",
+    "type": "story",
+    "files": [
+      "b4/d27-story2.jpg"
+    ],
+    "at": "2026-11-11 14:00",
+    "posted": false
+  },
+  {
+    "id": "d27-reel",
+    "type": "reel",
+    "files": [
+      "b4/d27-reel.mp4"
+    ],
+    "at": "2026-11-11 18:30",
+    "posted": false,
+    "caption": "Indigo Dyed Yarn in 30 seconds 🧵 Why do jeans fade so beautifully? Look at the yarn. Counts: Ne 6s - 30s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#IndigoDyedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d27-story3",
+    "type": "story",
+    "files": [
+      "b4/d27-story3.jpg"
+    ],
+    "at": "2026-11-11 20:00",
+    "posted": false
+  },
+  {
+    "id": "d28-story1",
+    "type": "story",
+    "files": [
+      "b4/d28-story1.jpg"
+    ],
+    "at": "2026-11-12 09:30",
+    "posted": false
+  },
+  {
+    "id": "d28-carousel",
+    "type": "carousel",
+    "files": [
+      "b4/d28-c01.jpg",
+      "b4/d28-c02.jpg",
+      "b4/d28-c03.jpg",
+      "b4/d28-c04.jpg",
+      "b4/d28-c05.jpg",
+      "b4/d28-c06.jpg",
+      "b4/d28-c07.jpg",
+      "b4/d28-c08.jpg",
+      "b4/d28-c09.jpg",
+      "b4/d28-c10.jpg"
+    ],
+    "at": "2026-11-12 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 28 · Mother Yarn\n\nBehind every fancy yarn is a good mother yarn. Base yarn supplied for further processing - twisting, covering, dyeing.\n\nCounts: Spun Ne 20s-40s  |  Filament 50D-300D\nUsed in: Downstream processing, twisting units, weaving\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MotherYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d28-story2",
+    "type": "story",
+    "files": [
+      "b4/d28-story2.jpg"
+    ],
+    "at": "2026-11-12 14:00",
+    "posted": false
+  },
+  {
+    "id": "d28-reel",
+    "type": "reel",
+    "files": [
+      "b4/d28-reel.mp4"
+    ],
+    "at": "2026-11-12 18:30",
+    "posted": false,
+    "caption": "Mother Yarn in 30 seconds 🧵 Behind every fancy yarn is a good mother yarn. Counts: Spun Ne 20s-40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MotherYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d28-story3",
+    "type": "story",
+    "files": [
+      "b4/d28-story3.jpg"
+    ],
+    "at": "2026-11-12 20:00",
+    "posted": false
+  },
+  {
+    "id": "d29-story1",
+    "type": "story",
+    "files": [
+      "b4/d29-story1.jpg"
+    ],
+    "at": "2026-11-13 09:30",
+    "posted": false
+  },
+  {
+    "id": "d29-carousel",
+    "type": "carousel",
+    "files": [
+      "b4/d29-c01.jpg",
+      "b4/d29-c02.jpg",
+      "b4/d29-c03.jpg",
+      "b4/d29-c04.jpg",
+      "b4/d29-c05.jpg",
+      "b4/d29-c06.jpg",
+      "b4/d29-c07.jpg",
+      "b4/d29-c08.jpg",
+      "b4/d29-c09.jpg",
+      "b4/d29-c10.jpg"
+    ],
+    "at": "2026-11-13 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 29 · Carpet & Technical Yarns (BCF)\n\nWhat's under your feet? Carpet yarn explained. Heavy bulky yarns for carpets, rugs and technical textiles.\n\nCounts: BCF 1000D - 3000D  |  Heavy deniers to order\nUsed in: Carpets, rugs, mats, technical & industrial textiles\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CarpetTechnicalYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d29-story2",
+    "type": "story",
+    "files": [
+      "b4/d29-story2.jpg"
+    ],
+    "at": "2026-11-13 14:00",
+    "posted": false
+  },
+  {
+    "id": "d29-reel",
+    "type": "reel",
+    "files": [
+      "b4/d29-reel.mp4"
+    ],
+    "at": "2026-11-13 18:30",
+    "posted": false,
+    "caption": "Carpet & Technical Yarns (BCF) in 30 seconds 🧵 What's under your feet? Carpet yarn explained. Counts: BCF 1000D - 3000D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CarpetTechnicalYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d29-story3",
+    "type": "story",
+    "files": [
+      "b4/d29-story3.jpg"
+    ],
+    "at": "2026-11-13 20:00",
+    "posted": false
+  },
+  {
+    "id": "d30-story1",
+    "type": "story",
+    "files": [
+      "b4/d30-story1.jpg"
+    ],
+    "at": "2026-11-14 09:30",
+    "posted": false
+  },
+  {
+    "id": "d30-carousel",
+    "type": "carousel",
+    "files": [
+      "b4/d30-c01.jpg",
+      "b4/d30-c02.jpg",
+      "b4/d30-c03.jpg",
+      "b4/d30-c04.jpg",
+      "b4/d30-c05.jpg",
+      "b4/d30-c06.jpg",
+      "b4/d30-c07.jpg",
+      "b4/d30-c08.jpg",
+      "b4/d30-c09.jpg",
+      "b4/d30-c10.jpg"
+    ],
+    "at": "2026-11-14 11:00",
+    "posted": false,
+    "caption": "Yarn of the Day 30 · Yarn Count Guide + Why Shivpriya\n\nNe, Denier, Nm - read any yarn count in 30 seconds. How to read Ne, Denier and Nm - and a recap of our 1,500+ SKU range.\n\nCounts: Denier = 5315 / Ne  |  Ne 30s = approx 177D\nUsed in: Every weaver, knitter and trader\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#YarnCountGuideWhyShivpriya #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji"
+  },
+  {
+    "id": "d30-story2",
+    "type": "story",
+    "files": [
+      "b4/d30-story2.jpg"
+    ],
+    "at": "2026-11-14 14:00",
+    "posted": false
+  },
+  {
+    "id": "d30-reel",
+    "type": "reel",
+    "files": [
+      "b4/d30-reel.mp4"
+    ],
+    "at": "2026-11-14 18:30",
+    "posted": false,
+    "caption": "Yarn Count Guide + Why Shivpriya in 30 seconds 🧵 Ne, Denier, Nm - read any yarn count in 30 seconds. Counts: Denier = 5315 / Ne.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#YarnCountGuideWhyShivpriya #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+  },
+  {
+    "id": "d30-story3",
+    "type": "story",
+    "files": [
+      "b4/d30-story3.jpg"
+    ],
+    "at": "2026-11-14 20:00",
+    "posted": false
+  },
+  {
+    "id": "fest-chhath-story",
+    "type": "story",
+    "files": [
+      "b4/x-2026-11-15-chhath-story.jpg"
+    ],
+    "at": "2026-11-15 07:30",
+    "posted": false
+  },
+  {
+    "id": "fest-chhath-post",
+    "type": "carousel",
+    "files": [
+      "b4/x-2026-11-15-chhath-post.jpg",
+      "b4/wish2.jpg"
+    ],
+    "at": "2026-11-15 09:00",
+    "posted": false,
+    "caption": "Warm wishes on Chhath Puja from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Chhath #ShivpriyaTexchem #FestiveWishes"
   }
 ]
