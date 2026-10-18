@@ -222,7 +222,9 @@
       "days/day03/story3.jpg"
     ],
     "at": "2026-10-18 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18498274588099109",
+    "posted_at": "2026-10-18 22:14"
   },
   {
     "id": "fest-navami-story",
