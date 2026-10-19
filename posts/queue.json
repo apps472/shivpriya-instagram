@@ -233,7 +233,9 @@
       "b4/x-2026-10-19-navami-story.jpg"
     ],
     "at": "2026-10-19 07:30",
-    "posted": false
+    "posted": true,
+    "media_id": "17913560640283419",
+    "posted_at": "2026-10-19 09:58"
   },
   {
     "id": "fest-navami-post",
@@ -243,8 +245,10 @@
       "b4/wish2.jpg"
     ],
     "at": "2026-10-19 09:00",
-    "posted": false,
-    "caption": "Warm wishes on Maha Navami from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Maha #ShivpriyaTexchem #FestiveWishes"
+    "posted": true,
+    "caption": "Warm wishes on Maha Navami from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Maha #ShivpriyaTexchem #FestiveWishes",
+    "media_id": "18098300924551041",
+    "posted_at": "2026-10-19 09:58"
   },
   {
     "id": "d04-story1",
@@ -253,7 +257,9 @@
       "days/day04/story1.jpg"
     ],
     "at": "2026-10-19 09:30",
-    "posted": false
+    "posted": true,
+    "media_id": "18095326241423819",
+    "posted_at": "2026-10-19 09:58"
   },
   {
     "id": "d04-carousel",
