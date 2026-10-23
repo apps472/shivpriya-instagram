@@ -654,8 +654,10 @@
       "b1/d08-reel.mp4"
     ],
     "at": "2026-10-23 18:30",
-    "posted": false,
-    "caption": "DDY - Dope Dyed Yarn in 30 seconds 🧵 This yarn never needs dyeing. Here's why. Counts: 75D - 300D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Ddy #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "DDY - Dope Dyed Yarn in 30 seconds 🧵 This yarn never needs dyeing. Here's why. Counts: 75D - 300D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Ddy #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "18154033330547383",
+    "posted_at": "2026-10-23 23:16"
   },
   {
     "id": "d08-story3",
@@ -664,7 +666,8 @@
       "b1/d08-story3.jpg"
     ],
     "at": "2026-10-23 20:00",
-    "posted": false
+    "posted": false,
+    "last_error": "API error 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with 18,101,694,905,531,368 cannot be found.\",\"fbtrace_id\":\"AkaQX8dnGxv88fhllXWAI"
   },
   {
     "id": "d09-story1",
