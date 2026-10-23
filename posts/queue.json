@@ -666,8 +666,9 @@
       "b1/d08-story3.jpg"
     ],
     "at": "2026-10-23 20:00",
-    "posted": false,
-    "last_error": "API error 400: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with 18,101,694,905,531,368 cannot be found.\",\"fbtrace_id\":\"AkaQX8dnGxv88fhllXWAI"
+    "posted": true,
+    "media_id": "18491659432129155",
+    "posted_at": "2026-10-24 00:43"
   },
   {
     "id": "d09-story1",
