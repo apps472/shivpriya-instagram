@@ -16,12 +16,25 @@ def call(method, path, **params):
     return r.json()
 
 def wait_ready(cid):
+    misses = 0
     for _ in range(60):
-        s = call("GET", cid, fields="status_code,status").get("status_code")
+        try:
+            s = call("GET", cid, fields="status_code,status").get("status_code")
+        except RuntimeError:
+            misses += 1                      # Instagram sometimes can't find a fresh container for a few seconds
+            if misses > 6: raise
+            time.sleep(10); continue
         if s == "FINISHED": return
-        if s == "ERROR": raise RuntimeError(f"Media {cid} failed processing: {call('GET', cid, fields='status')}")
+        if s == "ERROR": raise RuntimeError(f"Media {cid} failed processing")
         time.sleep(10)
     raise RuntimeError("Timed out waiting for media")
+
+def publish_container(cid):
+    for i in range(6):                       # 'media not ready' -> wait and retry
+        try: return call("POST", f"{USER}/media_publish", creation_id=cid)["id"]
+        except RuntimeError as e:
+            if i == 5 or ("9007" not in str(e) and "2207027" not in str(e)): raise
+            time.sleep(20)
 
 def url(f): return RAW + (f if "/" in f else "posts/" + f)
 def is_vid(u): return u.lower().endswith((".mp4", ".mov"))
@@ -41,8 +54,9 @@ def publish(p):
         for k in kids: wait_ready(k)
         cid = call("POST", f"{USER}/media", media_type="CAROUSEL", children=",".join(kids), caption=cap)["id"]
     else: raise RuntimeError(f"Unknown type {t}")
-    wait_ready(cid)
-    return call("POST", f"{USER}/media_publish", creation_id=cid)["id"]
+    if t != "story": wait_ready(cid)
+    else: time.sleep(8)                      # stories: status endpoint is unreliable, just give it a moment
+    return publish_container(cid)
 
 def main():
     q = json.load(open(QUEUE)); now = datetime.datetime.now(IST).strftime("%Y-%m-%d %H:%M")
@@ -52,10 +66,16 @@ def main():
     if not due and not any(p.get("at") for p in todo) and todo and os.environ.get("GITHUB_EVENT_NAME") != "schedule": due = [todo[0]]
     errors = 0
     for p in due:
-        try:
-            mid = publish(p); p.update(posted=True, media_id=mid, posted_at=now); print(f"Published {p['id']} -> {mid}")
-        except Exception as e:
-            errors += 1; p["last_error"] = str(e)[:300]; print(f"FAILED {p['id']}: {e}")
+        mid, err = None, None
+        for attempt in range(3):             # fresh container each attempt
+            try: mid = publish(p); break
+            except Exception as e: err = e; time.sleep(15)
+        if mid:
+            p.update(posted=True, media_id=mid, posted_at=now); p.pop("last_error", None); print(f"Published {p['id']} -> {mid}")
+        else:
+            p["fails"] = p.get("fails", 0) + 1; p["last_error"] = str(err)[:300]; print(f"FAILED {p['id']}: {err}")
+            if p["fails"] >= 6: p["posted"] = "skipped"; print(f"Skipping {p['id']} after 6 failed runs")
+            else: errors += 1
         json.dump(q, open(QUEUE, "w"), indent=2, ensure_ascii=False)
     print(f"Due {len(due)}, failed {errors}, remaining {len([p for p in q if not p.get('posted')])}")
     if errors: sys.exit(1)
