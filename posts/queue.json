@@ -617,9 +617,11 @@
       "b1/d08-c10.jpg"
     ],
     "at": "2026-10-23 11:00",
-    "posted": false,
+    "posted": true,
     "caption": "Yarn of the Day 08 · DDY - Dope Dyed Yarn\n\nThis yarn never needs dyeing. Here's why. Colour added during fibre extrusion - colour is inside the fibre, not on the surface.\n\nCounts: 75D - 300D  |  Popular: 150/48 Black\nUsed in: Fashion, outdoor wear, athleisure, bags, automotive\n\nSave this post for later.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Ddy #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji",
-    "last_error": "API error 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AG2CHLjUMIE3140e6mOBuVt"
+    "last_error": "API error 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AG2CHLjUMIE3140e6mOBuVt",
+    "media_id": "17907907449573363",
+    "posted_at": "2026-10-23 18:16"
   },
   {
     "id": "p07-whatsapp",
@@ -641,7 +643,9 @@
       "b1/d08-story2.jpg"
     ],
     "at": "2026-10-23 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18108055379210968",
+    "posted_at": "2026-10-23 18:16"
   },
   {
     "id": "d08-reel",
