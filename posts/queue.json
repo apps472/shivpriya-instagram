@@ -743,7 +743,9 @@
       "b4/x-2026-10-25-sharad-purnima-story.jpg"
     ],
     "at": "2026-10-25 07:30",
-    "posted": false
+    "posted": true,
+    "media_id": "18170824129420715",
+    "posted_at": "2026-10-25 10:37"
   },
   {
     "id": "fest-sharad-purnima-post",
@@ -753,8 +755,10 @@
       "b4/wish2.jpg"
     ],
     "at": "2026-10-25 09:00",
-    "posted": false,
-    "caption": "Warm wishes on Sharad Purnima from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Sharad #ShivpriyaTexchem #FestiveWishes"
+    "posted": true,
+    "caption": "Warm wishes on Sharad Purnima from all of us at Shivpriya Texchem & G S & Sons. 🙏\n\n#Sharad #ShivpriyaTexchem #FestiveWishes",
+    "media_id": "18396041641160799",
+    "posted_at": "2026-10-25 10:37"
   },
   {
     "id": "d10-story1",
@@ -763,7 +767,9 @@
       "b1/d10-story1.jpg"
     ],
     "at": "2026-10-25 09:30",
-    "posted": false
+    "posted": true,
+    "media_id": "18118356224046772",
+    "posted_at": "2026-10-25 10:37"
   },
   {
     "id": "d10-carousel",
