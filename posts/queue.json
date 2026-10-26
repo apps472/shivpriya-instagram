@@ -865,7 +865,9 @@
       "b1/d11-story2.jpg"
     ],
     "at": "2026-10-26 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "17892148941457870",
+    "posted_at": "2026-10-26 20:27"
   },
   {
     "id": "d11-reel",
@@ -874,8 +876,10 @@
       "b1/d11-reel.mp4"
     ],
     "at": "2026-10-26 18:30",
-    "posted": false,
-    "caption": "Superstretch Yarn in 30 seconds 🧵 Gym wear that moves with you starts here. Counts: Popular: 70D + 20D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SuperstretchYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "Superstretch Yarn in 30 seconds 🧵 Gym wear that moves with you starts here. Counts: Popular: 70D + 20D.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SuperstretchYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "18120343640091582",
+    "posted_at": "2026-10-26 20:27"
   },
   {
     "id": "d11-story3",
@@ -884,7 +888,9 @@
       "b1/d11-story3.jpg"
     ],
     "at": "2026-10-26 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "17994305616107150",
+    "posted_at": "2026-10-26 20:27"
   },
   {
     "id": "d12-story1",
