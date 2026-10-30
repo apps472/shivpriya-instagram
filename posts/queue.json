@@ -1164,7 +1164,9 @@
       "b2/d15-story2.jpg"
     ],
     "at": "2026-10-30 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18130940839879932",
+    "posted_at": "2026-10-30 20:42"
   },
   {
     "id": "d15-reel",
@@ -1173,8 +1175,10 @@
       "b2/d15-reel.mp4"
     ],
     "at": "2026-10-30 18:30",
-    "posted": false,
-    "caption": "Siro / Eli Twist Yarns in 30 seconds 🧵 Looks like 2-ply, costs like single. That's Siro. Counts: Ne 30s - 80s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SiroEliTwistYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "Siro / Eli Twist Yarns in 30 seconds 🧵 Looks like 2-ply, costs like single. That's Siro. Counts: Ne 30s - 80s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#SiroEliTwistYarns #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "18639957505023542",
+    "posted_at": "2026-10-30 20:42"
   },
   {
     "id": "d15-story3",
@@ -1183,7 +1187,9 @@
       "b2/d15-story3.jpg"
     ],
     "at": "2026-10-30 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18046738160820242",
+    "posted_at": "2026-10-30 20:42"
   },
   {
     "id": "d16-story1",
