@@ -1307,7 +1307,9 @@
       "b4/x-2026-11-01-teaser2-story.jpg"
     ],
     "at": "2026-11-01 18:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18115324880246542",
+    "posted_at": "2026-11-01 22:08"
   },
   {
     "id": "d17-reel",
@@ -1316,8 +1318,10 @@
       "b2/d17-reel.mp4"
     ],
     "at": "2026-11-01 18:30",
-    "posted": false,
-    "caption": "P/V Blended Yarn in 30 seconds 🧵 Why is your school uniform P/V? Here's the science. Counts: Ne 20s - 60s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PVBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "P/V Blended Yarn in 30 seconds 🧵 Why is your school uniform P/V? Here's the science. Counts: Ne 20s - 60s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PVBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "17877032253584987",
+    "posted_at": "2026-11-01 22:08"
   },
   {
     "id": "d17-story3",
@@ -1326,7 +1330,9 @@
       "b2/d17-story3.jpg"
     ],
     "at": "2026-11-01 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18210224293370830",
+    "posted_at": "2026-11-01 22:08"
   },
   {
     "id": "d18-story1",
