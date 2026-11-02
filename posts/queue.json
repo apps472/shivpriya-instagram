@@ -1373,7 +1373,9 @@
       "b2/d18-story2.jpg"
     ],
     "at": "2026-11-02 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18188203504420131",
+    "posted_at": "2026-11-02 22:53"
   },
   {
     "id": "d18-reel",
@@ -1382,8 +1384,10 @@
       "b2/d18-reel.mp4"
     ],
     "at": "2026-11-02 18:30",
-    "posted": false,
-    "caption": "P/C & C/P Blended Yarn in 30 seconds 🧵 P/C or C/P? The first letter tells you the main fibre. Counts: Ne 20s - 45s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PCCPBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "P/C & C/P Blended Yarn in 30 seconds 🧵 P/C or C/P? The first letter tells you the main fibre. Counts: Ne 20s - 45s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#PCCPBlendedYarn #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "17948178402085936",
+    "posted_at": "2026-11-02 22:53"
   },
   {
     "id": "d18-story3",
@@ -1392,7 +1396,9 @@
       "b2/d18-story3.jpg"
     ],
     "at": "2026-11-02 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "17915471211556624",
+    "posted_at": "2026-11-02 22:53"
   },
   {
     "id": "d19-story1",
