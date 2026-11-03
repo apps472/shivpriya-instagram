@@ -1439,7 +1439,9 @@
       "b3/d19-story2.jpg"
     ],
     "at": "2026-11-03 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18090336326283373",
+    "posted_at": "2026-11-03 20:24"
   },
   {
     "id": "d19-reel",
@@ -1448,8 +1450,10 @@
       "b3/d19-reel.mp4"
     ],
     "at": "2026-11-03 18:30",
-    "posted": false,
-    "caption": "Cotton-Viscose Blend in 30 seconds 🧵 Want cotton that flows? Add viscose. Counts: Ne 20s - 40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CottonViscoseBlend #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "Cotton-Viscose Blend in 30 seconds 🧵 Want cotton that flows? Add viscose. Counts: Ne 20s - 40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#CottonViscoseBlend #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "18120946522975665",
+    "posted_at": "2026-11-03 20:24"
   },
   {
     "id": "d19-story3",
@@ -1458,7 +1462,9 @@
       "b3/d19-story3.jpg"
     ],
     "at": "2026-11-03 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18161853811498067",
+    "posted_at": "2026-11-03 20:24"
   },
   {
     "id": "d20-story1",
