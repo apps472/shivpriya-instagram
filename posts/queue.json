@@ -1505,7 +1505,9 @@
       "b3/d20-story2.jpg"
     ],
     "at": "2026-11-04 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18130814605843338",
+    "posted_at": "2026-11-04 21:32"
   },
   {
     "id": "ai-teaser3-story",
@@ -1514,7 +1516,9 @@
       "b4/x-2026-11-04-teaser3-story.jpg"
     ],
     "at": "2026-11-04 18:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18112601579623765",
+    "posted_at": "2026-11-04 21:32"
   },
   {
     "id": "d20-reel",
@@ -1523,8 +1527,10 @@
       "b3/d20-reel.mp4"
     ],
     "at": "2026-11-04 18:30",
-    "posted": false,
-    "caption": "Micro Modal - Cotton in 30 seconds 🧵 The softest innerwear in the market uses this yarn. Counts: Ne 30s - 60s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MicroModal #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "Micro Modal - Cotton in 30 seconds 🧵 The softest innerwear in the market uses this yarn. Counts: Ne 30s - 60s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#MicroModal #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "18097854677558494",
+    "posted_at": "2026-11-04 21:32"
   },
   {
     "id": "d20-story3",
@@ -1533,7 +1539,9 @@
       "b3/d20-story3.jpg"
     ],
     "at": "2026-11-04 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18220038541347736",
+    "posted_at": "2026-11-04 21:32"
   },
   {
     "id": "d21-story1",
