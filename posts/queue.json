@@ -1672,7 +1672,9 @@
       "b3/d22-story2.jpg"
     ],
     "at": "2026-11-06 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "17895656583436923",
+    "posted_at": "2026-11-06 20:00"
   },
   {
     "id": "d22-reel",
@@ -1681,8 +1683,10 @@
       "b3/d22-reel.mp4"
     ],
     "at": "2026-11-06 18:30",
-    "posted": false,
-    "caption": "Flax (Linen) & Blends in 30 seconds 🧵 Why does linen feel cool in Indian summers? Counts: Ne 8s - 40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Flax #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "Flax (Linen) & Blends in 30 seconds 🧵 Why does linen feel cool in Indian summers? Counts: Ne 8s - 40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#Flax #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "18089572316301145",
+    "posted_at": "2026-11-06 20:00"
   },
   {
     "id": "d22-story3",
@@ -1691,7 +1695,9 @@
       "b3/d22-story3.jpg"
     ],
     "at": "2026-11-06 20:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18138915244634810",
+    "posted_at": "2026-11-06 20:00"
   },
   {
     "id": "d23-story1",
