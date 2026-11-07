@@ -1,0 +1,38 @@
+name: Build daily content (1-year plan)
+on:
+  schedule:
+    - cron: "30 17 * * *"   # 11:00 PM IST every night
+  workflow_dispatch:
+    inputs:
+      ahead:
+        description: "Days ahead to build"
+        default: "2"
+permissions:
+  contents: write
+concurrency: { group: instagram-post, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: (which ffmpeg || (sudo apt-get update -q && sudo apt-get install -y -q ffmpeg)) && pip install pillow
+      - name: Render posts
+        id: render
+        run: python engine/daily.py
+        env:
+          AHEAD: ${{ github.event.inputs.ahead }}
+      - name: Publish media branch
+        if: steps.render.outputs.built != '0'
+        run: |
+          cd _media
+          git init -q -b media
+          git config user.name "shivpriya-bot"; git config user.email "bot@shivpriyatexchem.com"
+          git add -A && git commit -q -m "Media window $(date -u +%F)"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" media
+      - name: Save queue
+        run: |
+          git config user.name "shivpriya-bot"; git config user.email "bot@shivpriyatexchem.com"
+          git add posts/queue.json
+          git diff --cached --quiet || (git commit -m "Queue next days" && git pull --rebase && git push)
