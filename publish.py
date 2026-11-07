@@ -36,11 +36,13 @@ def publish_container(cid):
             if i == 5 or ("9007" not in str(e) and "2207027" not in str(e)): raise
             time.sleep(20)
 
-def url(f): return RAW + (f if "/" in f else "posts/" + f)
+def url(f, branch=None):
+    if branch: return f"https://raw.githubusercontent.com/{REPO}/{branch}/{f}"
+    return RAW + (f if "/" in f else "posts/" + f)
 def is_vid(u): return u.lower().endswith((".mp4", ".mov"))
 
 def publish(p):
-    urls = [url(f) for f in p["files"]]; t, cap = p["type"], p.get("caption", "")
+    urls = [url(f, p.get("branch")) for f in p["files"]]; t, cap = p["type"], p.get("caption", "")
     if t == "image": cid = call("POST", f"{USER}/media", image_url=urls[0], caption=cap)["id"]
     elif t == "story":
         k = "video_url" if is_vid(urls[0]) else "image_url"
