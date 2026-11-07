@@ -1738,7 +1738,9 @@
       "b3/d23-story2.jpg"
     ],
     "at": "2026-11-07 14:00",
-    "posted": false
+    "posted": true,
+    "media_id": "17920156983463273",
+    "posted_at": "2026-11-07 19:17"
   },
   {
     "id": "ai-teaser4-story",
@@ -1747,7 +1749,9 @@
       "b4/x-2026-11-07-teaser4-story.jpg"
     ],
     "at": "2026-11-07 18:00",
-    "posted": false
+    "posted": true,
+    "media_id": "18645658588007135",
+    "posted_at": "2026-11-07 19:17"
   },
   {
     "id": "d23-reel",
@@ -1756,8 +1760,10 @@
       "b3/d23-reel.mp4"
     ],
     "at": "2026-11-07 18:30",
-    "posted": false,
-    "caption": "Hemp, Bamboo, Acrylic & Wool in 30 seconds 🧵 4 fibres, 4 superpowers. Which one do you need? Counts: Bamboo Ne 20s-40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#HempBambooAcrylicWool #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels"
+    "posted": true,
+    "caption": "Hemp, Bamboo, Acrylic & Wool in 30 seconds 🧵 4 fibres, 4 superpowers. Which one do you need? Counts: Bamboo Ne 20s-40s.\n\n📲 WhatsApp +91 87672 50274 for today's rate\nMumbai 93225 09163 · Surat 93225 09161 · Bhiwandi 91373 77425\n🌐 shivpriyatexchem.com\n\n#HempBambooAcrylicWool #ShivpriyaTexchem #Yarn #YarnSupplier #TextileIndia #Weaving #Knitting #Bhiwandi #Surat #Ichalkaranji #Reels",
+    "media_id": "18094104761677095",
+    "posted_at": "2026-11-07 19:17"
   },
   {
     "id": "d23-story3",
